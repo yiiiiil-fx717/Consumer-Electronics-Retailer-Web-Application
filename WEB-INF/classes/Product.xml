@@ -1,0 +1,3500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Product>
+    <!-- Phone below -->
+    <item id="1">
+        <image>image8</image>
+        <Name>iPhone7</Name>
+        <Color>Jet black</Color>
+        <Price>749</Price>
+        <accessories>
+            <accessory>Smart battery case</accessory>
+            <accessory>Leather case</accessory>
+            <accessory>Lightening dock</accessory>
+            <accessory>Lightening to USB cable</accessory>
+            <accessory>Wireless Charging Pad</accessory>
+            <accessory>DJI drone</accessory>
+            <accessory>Keyboard</accessory>
+        </accessories>
+    </item>
+    1
+    <item id="2">
+        <image>image9</image>
+        <Name>Samsung Galaxy S8</Name>
+        <Color>Black</Color>
+        <Price>719</Price>
+        <accessories>
+            <accessory>Wireless charger</accessory>
+            <accessory>Screen protector</accessory>
+            <accessory>Commuter case</accessory>
+            <accessory>Memory card</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Port car charger</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="3">
+        <image>image10</image>
+        <Name>Motorola E4 plus</Name>
+        <Color>Black</Color>
+        <Price>200</Price>
+        <accessories>
+            <accessory>Vehicle charger</accessory>
+            <accessory>Micro usb to usb cable</accessory>
+            <accessory>E4 plus case</accessory>
+            <accessory>Prepaid sim kit</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Port car charger</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="4">
+        <image>image11</image>
+        <Name>Sony XPERIA L1</Name>
+        <Color>Black</Color>
+        <Price>200</Price>
+        <accessories>
+            <accessory>NGP pure case</accessory>
+            <accessory>Universal sim card</accessory>
+            <accessory>Headphone adapter</accessory>
+            <accessory>Phone holder</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Port car charger</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="5">
+        <image>image12</image>
+        <Name>Huawei mate 9</Name>
+        <Color>Black</Color>
+        <Price>500</Price>
+        <accessories>
+            <accessory>Refill card</accessory>
+            <accessory>Type a to type c cable</accessory>
+            <accessory>Shield case</accessory>
+            <accessory>Battery case</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Car phone holder</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="6">
+        <image>image13</image>
+        <Name>LG G5</Name>
+        <Color>Black</Color>
+        <Price>280</Price>
+        <accessories>
+            <accessory>Micro usb to usb cable</accessory>
+            <accessory>Inear Headphone</accessory>
+            <accessory>Memory card</accessory>
+            <accessory>Sim card kit</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Car phone holder</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="7">
+        <image>image14</image>
+        <Name>iPhone SE</Name>
+        <Color>Black</Color>
+        <Price>499</Price>
+        <accessories>
+            <accessory>Lens Set</accessory>
+            <accessory>Airpods</accessory>
+            <accessory>Photo printer</accessory>
+            <accessory>Leather wallet case</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Car phone holder</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="8">
+        <image>image15</image>
+        <Name>iPhone 6s plus</Name>
+        <Color>Black</Color>
+        <Price>749</Price>
+        <accessories>
+            <accessory>Body cardio scale</accessory>
+            <accessory>Fitness armband</accessory>
+            <accessory>Sleep monitor</accessory>
+            <accessory>Heart rate monitor</accessory>
+            <accessory>USB wall charger</accessory>
+            <accessory>Car phone holder</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="9">
+        <image>image16</image>
+        <Name>ZTE Axon 7 Mini</Name>
+        <Color>Black</Color>
+        <Price>194</Price>
+        <accessories>
+            <accessory>Tempered glass</accessory>
+            <accessory>Mini case</accessory>
+            <accessory>Mini charger</accessory>
+            <accessory>Charger cable</accessory>
+            <accessory>FM transmitter</accessory>
+            <accessory>Car phone holder</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <item id="10">
+        <image>image17</image>
+        <Name>Samsung Galaxy J7 Prime</Name>
+        <Color>White</Color>
+        <Price>233</Price>
+        <accessories>
+            <accessory>Screen protector</accessory>
+            <accessory>Prime case</accessory>
+            <accessory>Prepaid sim kit</accessory>
+            <accessory>Repair tool kit</accessory>
+            <accessory>FM transmitter</accessory>
+            <accessory>Car phone holder</accessory>
+            <accessory>Extanding stand</accessory>
+        </accessories>
+    </item>
+    
+    <!-- Laptop below -->
+    
+    <item id="11">
+        <image>image18</image>
+        <Name>Macbook pro</Name>
+        <Color>Silver</Color>
+        <Price>1999</Price>
+        <accessories>
+            <accessory>Microsoft office</accessory>
+            <accessory>Magic mouse</accessory>
+            <accessory>Hardshell case</accessory>
+            <accessory>Magic keyboard</accessory>
+            <accessory>5K displayer</accessory>
+            <accessory>Parrallel desktop</accessory>
+            <accessory>File maker</accessory>
+        </accessories>
+    </item>
+    
+    <item id="12">
+        <image>image19</image>
+        <Name>Macbook</Name>
+        <Color>Rose gold</Color>
+        <Price>1599</Price>
+        <accessories>
+            <accessory>File maker</accessory>
+            <accessory>Magic trackpad</accessory>
+            <accessory>Airport express</accessory>
+            <accessory>Apple care</accessory>
+            <accessory>5k displayer</accessory>
+            <accessory>Parrallel desktop</accessory>
+            <accessory>File maker</accessory>
+        </accessories>
+    </item>
+    
+    <item id="13">
+        <image>image20</image>
+        <Name>ASUS ZenBook</Name>
+        <Color>Silver</Color>
+        <Price>699</Price>
+        <accessories>
+            <accessory>Laptop sleeve</accessory>
+            <accessory>Protection plan</accessory>
+            <accessory>Keyboard cover</accessory>
+            <accessory>Portable charger</accessory>
+            <accessory>5K displayer</accessory>
+            <accessory>Router</accessory>
+            <accessory>Backpack</accessory>
+        </accessories>
+    </item>
+    
+    <item id="14">
+        <image>image21</image>
+        <Name>Acer Aspire 1</Name>
+        <Color>Black</Color>
+        <Price>220</Price>
+        <accessories>
+            <accessory>Wireless mouse</accessory>
+            <accessory>Laptop screen protector</accessory>
+            <accessory>Hard drive</accessory>
+            <accessory>HDMI cable</accessory>
+            <accessory>5K displayer</accessory>
+            <accessory>Router</accessory>
+            <accessory>Backpack</accessory>
+        </accessories>
+    </item>
+    
+    <item id="15">
+        <image>image22</image>
+        <Name>Alienware AW</Name>
+        <Color>Black</Color>
+        <Price>1145</Price>
+        <accessories>
+            <accessory>Backpack</accessory>
+            <accessory>Laptop screen protector</accessory>
+            <accessory>Gaming mouse</accessory>
+            <accessory>Gaming keyboard</accessory>
+            <accessory>5K displayer</accessory>
+            <accessory>Router</accessory>
+            <accessory>Backpack</accessory>
+        </accessories>
+    </item>
+    
+    <item id="16">
+        <image>image23</image>
+        <Name>Dell XPS9560</Name>
+        <Color>Black</Color>
+        <Price>1818</Price>
+        <accessories>
+            <accessory>Backpack</accessory>
+            <accessory>Laptop screen protector</accessory>
+            <accessory>Thunderbold dock</accessory>
+            <accessory>Bluetooth mouse</accessory>
+            <accessory>Portable tray</accessory>
+            <accessory>Router</accessory>
+            <accessory>Backpack</accessory>
+        </accessories>
+    </item>
+    
+    <item id="17">
+        <image>image24</image>
+        <Name>HP Stream</Name>
+        <Color>Blue</Color>
+        <Price>210</Price>
+        <accessories>
+            <accessory>Keyboard cover</accessory>
+            <accessory>Laptop sleeve</accessory>
+            <accessory>Memory card</accessory>
+            <accessory>Hard drive</accessory>
+            <accessory>Router</accessory>
+            <accessory>Router</accessory>
+            <accessory>Backpack</accessory>
+        </accessories>
+    </item>
+    
+    <item id="18">
+        <image>image25</image>
+        <Name>Microsoft Surface</Name>
+        <Color>Grey</Color>
+        <Price>960</Price>
+        <accessories>
+            <accessory>Laptop screen protector</accessory>
+            <accessory>Surface pen</accessory>
+            <accessory>Keyboard cover</accessory>
+            <accessory>HDMI cable</accessory>
+            <accessory>5K displayer</accessory>
+            <accessory>Router</accessory>
+            <accessory>Cooling pad</accessory>
+        </accessories>
+    </item>
+    
+    <item id="19">
+        <image>image26</image>
+        <Name>Lenovo Legion</Name>
+        <Color>Black</Color>
+        <Price>940</Price>
+        <accessories>
+            <accessory>Gaming mouse</accessory>
+            <accessory>Cooling pad</accessory>
+            <accessory>Gaming keyboard</accessory>
+            <accessory>Hard drive</accessory>
+            <accessory>5k displayer</accessory>
+            <accessory>Keyboard cover</accessory>
+            <accessory>Backpack</accessory>
+        </accessories>
+    </item>
+    
+    <item id="20">
+        <image>image27</image>
+        <Name>Macbook air</Name>
+        <Color>Silver</Color>
+        <Price>1190</Price>
+        <accessories>
+            <accessory>5K displayer</accessory>
+            <accessory>Router</accessory>
+            <accessory>Airport express</accessory>
+            <accessory>Microsoft office</accessory>
+            <accessory>Magic mouse</accessory>
+            <accessory>Parrallel desktop</accessory>
+            <accessory>File maker</accessory>
+        </accessories>
+    </item>
+    
+    <!-- Smart watches below -->
+    
+    <item id="21">
+        <image>image28</image>
+        <Name>Apple Watch Edition</Name>
+        <Color>Space Black Stainless Steel</Color>
+        <Price>749</Price>
+        <accessories>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Nike sport band</accessory>
+            <accessory>Woven nylon band</accessory>
+            <accessory>Link bracelet</accessory>
+            <accessory>Charging cable</accessory>
+            <accessory>Seashell sport loop</accessory>
+            <accessory>Olive sport loop</accessory>
+        </accessories>
+    </item>
+    
+    <item id="22">
+        <image>image29</image>
+        <Name>Pedometer</Name>
+        <Color>Black</Color>
+        <Price>59</Price>
+        <accessories>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Headphone</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Adapter cable</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Nike sport band</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="23">
+        <image>image30</image>
+        <Name>Samsung Gear Fit2</Name>
+        <Color>Black</Color>
+        <Price>127</Price>
+        <accessories>
+            <accessory>Case cover</accessory>
+            <accessory>Nike sport band</accessory>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Adapter cable</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="24">
+        <image>image31</image>
+        <Name>Samsung Gear S2</Name>
+        <Color>Silver</Color>
+        <Price>214</Price>
+        <accessories>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Woven nylon band</accessory>
+            <accessory>Adapter cable</accessory>
+            <accessory>Steel frame</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="25">
+        <image>image32</image>
+        <Name>LG Urbane</Name>
+        <Color>Black</Color>
+        <Price>199</Price>
+        <accessories>
+            <accessory>Backup band</accessory>
+            <accessory>Nike sport band</accessory>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Case cover</accessory>
+            <accessory>Watch stand</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="26">
+        <image>image33</image>
+        <Name>Huawei watch</Name>
+        <Color>Silver</Color>
+        <Price>247</Price>
+        <accessories>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Adapter cable</accessory>
+            <accessory>Protection plan</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="27">
+        <image>image34</image>
+        <Name>Sony SW2</Name>
+        <Color>Black</Color>
+        <Price>150</Price>
+        <accessories>
+            <accessory>Link bracelet</accessory>
+            <accessory>External battery</accessory>
+            <accessory>Prepaid sim kit</accessory>
+            <accessory>Screen protector</accessory>
+            <accessory>Steel frame</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="28">
+        <image>image35</image>
+        <Name>Moto 360</Name>
+        <Color>Black</Color>
+        <Price>227</Price>
+        <accessories>
+            <accessory>Case cover</accessory>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Repair tool kit</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Watch stand</accessory>
+            <accessory>Case cover</accessory>
+        </accessories>
+    </item>
+    
+    <item id="29">
+        <image>image36</image>
+        <Name>Pebble time around</Name>
+        <Color>Rose gold</Color>
+        <Price>120</Price>
+        <accessories>
+            <accessory>Steel frame</accessory>
+            <accessory>Watch stand</accessory>
+            <accessory>Watch screen protector</accessory>
+            <accessory>Adapter cable</accessory>
+            <accessory>Backup band</accessory>
+            <accessory>Case cover</accessory>
+            <accessory>Repair tool kit</accessory>
+        </accessories>
+    </item>
+    
+    <item id="30">
+        <image>image37</image>
+        <Name>Apple Watch Hermès</Name>
+        <Color>Stainless Steel Case</Color>
+        <Price>1299</Price>
+        <accessories>
+            <accessory>Headphone</accessory>
+            <accessory>Nike sport band</accessory>
+            <accessory>Adapter cable</accessory>
+            <accessory>Magnetic charging dock</accessory>
+            <accessory>Watch stand</accessory>
+            <accessory>Case cover</accessory>
+            <accessory>Watch screen protector</accessory>
+        </accessories>
+    </item>
+    
+    <!-- Speakers below -->
+    
+    <item id="31">
+        <image>image38</image>
+        <Name>Beats Pill+ Portable Speaker</Name>
+        <Color>Black</Color>
+        <Price>180</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="32">
+        <image>image39</image>
+        <Name>AmazonBasics</Name>
+        <Color>Black</Color>
+        <Price>14</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="33">
+        <image>image40</image>
+        <Name>Anker SoundCore</Name>
+        <Color>Black</Color>
+        <Price>30</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="34">
+        <image>image41</image>
+        <Name>OontZ Angle 3</Name>
+        <Color>Black</Color>
+        <Price>24</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="35">
+        <image>image42</image>
+        <Name>DOSS Touch</Name>
+        <Color>Black</Color>
+        <Price>34</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="36">
+        <image>image43</image>
+        <Name>Cyber Acoustics</Name>
+        <Color>Black</Color>
+        <Price>40</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="37">
+        <image>image44</image>
+        <Name>ZOEE S1</Name>
+        <Color>Black</Color>
+        <Price>21</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="38">
+        <image>image45</image>
+        <Name>Aud Mini by iLuv</Name>
+        <Color>Black</Color>
+        <Price>12</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="39">
+        <image>image46</image>
+        <Name>Edifier R1280T</Name>
+        <Color>Black</Color>
+        <Price>100</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <item id="40">
+        <image>image47</image>
+        <Name>JBL Flip 3</Name>
+        <Color>Black</Color>
+        <Price>77</Price>
+        <accessories>
+            <accessory>Power cable</accessory>
+            <accessory>USB cable</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Adapter</accessory>
+            <accessory>Travel case</accessory>
+            <accessory>Bike mount</accessory>
+            <accessory>Speaker mount</accessory>
+        </accessories>
+    </item>
+    
+    <!-- Headphones below -->
+    
+    <item id="41">
+        <image>image48</image>
+        <Name>Airpods</Name>
+        <Color>White</Color>
+        <Price>159</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="42">
+        <image>image49</image>
+        <Name>Bose QuietComfort 35</Name>
+        <Color>Black</Color>
+        <Price>329</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="43">
+        <image>image50</image>
+        <Name>Bose SoundSport</Name>
+        <Color>Black</Color>
+        <Price>149</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="44">
+        <image>image51</image>
+        <Name>Mpow Jaws V4.1</Name>
+        <Color>Black</Color>
+        <Price>20</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="45">
+        <image>image52</image>
+        <Name>Sony WH1000XM2</Name>
+        <Color>Black</Color>
+        <Price>350</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="46">
+        <image>image53</image>
+        <Name>Beats Studio</Name>
+        <Color>Black</Color>
+        <Price>170</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="47">
+        <image>image54</image>
+        <Name>Powerbeats3</Name>
+        <Color>Flash blue</Color>
+        <Price>200</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="48">
+        <image>image55</image>
+        <Name>BeatsX</Name>
+        <Color>Flash blue</Color>
+        <Price>110</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="49">
+        <image>image56</image>
+        <Name>Fusion beats</Name>
+        <Color>Blacks</Color>
+        <Price>40</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <item id="50">
+        <image>image57</image>
+        <Name>Monster Inspiration</Name>
+        <Color>Space grey</Color>
+        <Price>77</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Airline adapter</accessory>
+            <accessory>Bluetooth transmitter</accessory>
+            <accessory>Foam earpad</accessory>
+            <accessory>Splitter adapter</accessory>
+            <accessory>Extension cable</accessory>
+        </accessories>
+    </item>
+    
+    <!-- External storage below -->
+    
+    <item id="51">
+        <image>image58</image>
+        <Name>Seagate Expansion 1TB</Name>
+        <Color>Black</Color>
+        <Price>55</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Recorder</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="52">
+        <image>image59</image>
+        <Name>Seagate Exp 5TB</Name>
+        <Color>Black</Color>
+        <Price>129</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Recorder</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="53">
+        <image>image60</image>
+        <Name>Silicon Power 1TB</Name>
+        <Color>Black</Color>
+        <Price>60</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="54">
+        <image>image61</image>
+        <Name>WD Element 1TB</Name>
+        <Color>Black</Color>
+        <Price>55</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="55">
+        <image>image62</image>
+        <Name>Seagate Plus Hub 6TB</Name>
+        <Color>Black</Color>
+        <Price>156</Price>
+        <accessories>
+            <accessory>Protection plan</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="56">
+        <image>image63</image>
+        <Name>Toshiba Basics 1TB</Name>
+        <Color>Black</Color>
+        <Price>50</Price>
+        <accessories>
+            <accessory>Carrying case</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="57">
+        <image>image64</image>
+        <Name>Seagate Game Drive 2TB</Name>
+        <Color>Green</Color>
+        <Price>87</Price>
+        <accessories>
+            <accessory>Controller</accessory>
+            <accessory>Gaming mouse</accessory>
+            <accessory>Cable adapter</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="58">
+        <image>image65</image>
+        <Name>Seagate Backup 2TB</Name>
+        <Color>Black</Color>
+        <Price>76</Price>
+        <accessories>
+            <accessory>Cable adapter</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="59">
+        <image>image66</image>
+        <Name>Toshiba Connect 1TB</Name>
+        <Color>Black</Color>
+        <Price>50</Price>
+        <accessories>
+            <accessory>Cable adapter</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <item id="60">
+        <image>image67</image>
+        <Name>Seagate Ultra 2TB</Name>
+        <Color>White</Color>
+        <Price>82</Price>
+        <accessories>
+            <accessory>Cable adapter</accessory>
+            <accessory>Port hub</accessory>
+            <accessory>Carrying case</accessory>
+            <accessory>Power strip</accessory>
+            <accessory>Hard drive enclosure</accessory>
+            <accessory>Reader adapter</accessory>
+            <accessory>Card reader</accessory>
+        </accessories>
+    </item>
+    
+    <accessorydetail id="101">
+        <name>Smart battery case</name>
+        <image>Smart battery case</image>
+        <Price>79</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="102">
+        <name>Leather case</name>
+        <image>Leather case</image>
+        <Price>29</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="103">
+        <name>Lightening dock</name>
+        <image>Lightening dock</image>
+        <Price>49</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="104">
+        <name>Lightening to USB cable</name>
+        <image>Lightening to USB cable</image>
+        <Price>19</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="105">
+        <name>Wireless Charging Pad</name>
+        <image>Wireless Charging Pad</image>
+        <Price>99</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="106">
+        <name>DJI drone</name>
+        <image>DJI drone</image>
+        <Price>499</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="107">
+        <name>Keyboard</name>
+        <image>Keyboard</image>
+        <Price>299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="108">
+        <name>Wireless charger</name>
+        <image>Wireless charger</image>
+        <Price>199</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="109">
+        <name>Screen protector</name>
+        <image>Screen protector</image>
+        <Price>9</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="110">
+        <name>Commuter case</name>
+        <image>Commuter case</image>
+        <Price>19</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="111">
+        <name>Memory card</name>
+        <image>Memory card</image>
+        <Price>39</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="112">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>79</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="113">
+        <name>Port car charger</name>
+        <image>Port car charger</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="114">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="115">
+        <name>Vehicle charger</name>
+        <image>Vehicle charger</image>
+        <Price>57</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="116">
+        <name>Micro usb to usb cable</name>
+        <image>Micro usb to usb cable</image>
+        <Price>10</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="117">
+        <name>E4 plus case</name>
+        <image>E4 plus case</image>
+        <Price>24</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="118">
+        <name>Prepaid sim kit</name>
+        <image>Prepaid sim kit</image>
+        <Price>45</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="119">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>79</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="120">
+        <name>Port car charger</name>
+        <image>Port car carger</image>
+        <Price>26</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="121">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="122">
+        <name>NGP pure case</name>
+        <image>NGP pure case</image>
+        <Price>99</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="123">
+        <name>Universal sim card</name>
+        <image>Universal sim card</image>
+        <Price>49</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="124">
+        <name>Headphone adapter</name>
+        <image>Headphone adapter</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="125">
+        <name>Phone holder</name>
+        <image>Phone holder</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="126">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>79</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="127">
+        <name>Port car charger</name>
+        <image>Port car carger</image>
+        <Price>26</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="128">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="129">
+        <name>Refill card</name>
+        <image>Refill card</image>
+        <Price>39</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="130">
+        <name>Type a to c cable</name>
+        <image>Type a to c cable</image>
+        <Price>20</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="131">
+        <name>Shield case</name>
+        <image>Shield case</image>
+        <Price>65</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="132">
+        <name>Battery case</name>
+        <image>Battery case</image>
+        <Price>99</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="133">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>79</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="134">
+        <name>Port car charger</name>
+        <image>Port car carger</image>
+        <Price>26</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="135">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="136">
+        <name>Micro usb to usb cable</name>
+        <image>Micro usb to usb cable</image>
+        <Price>40</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="137">
+        <name>Inear headphone</name>
+        <image>Inear headphone</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="138">
+        <name>Memory card</name>
+        <image>Memory card</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="139">
+        <name>Sim card kit</name>
+        <image>Sim card kit</image>
+        <Price>49</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="140">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>79</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="141">
+        <name>Car phone holder</name>
+        <image>Port car carger</image>
+        <Price>26</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="142">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="143">
+        <name>Lens set</name>
+        <image>Lens set</image>
+        <Price>70</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="144">
+        <name>Airpods</name>
+        <image>Airpods</image>
+        <Price>129</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="145">
+        <name>Photo printer</name>
+        <image>Photo printer</image>
+        <Price>200</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="146">
+        <name>Leather wallet case</name>
+        <image>Leather wallet case</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="147">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="148">
+        <name>Car phone holder</name>
+        <image>Car phone holder</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="149">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="150">
+        <name>Body cardio scale</name>
+        <image>Body cardio scale</image>
+        <Price>300</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="151">
+        <name>Fitness armband</name>
+        <image>Fitness armband</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="152">
+        <name>Sleep monitor</name>
+        <image>Sleep monitor</image>
+        <Price>199</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="153">
+        <name>Heart rate monitor</name>
+        <image>Heart rate monitor</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="154">
+        <name>USB wall charger</name>
+        <image>USB wall charger</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="155">
+        <name>Car phone holder</name>
+        <image>Car phone holder</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="156">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="157">
+        <name>Tempered glass</name>
+        <image>Tempered glass</image>
+        <Price>21</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="158">
+        <name>Mini case</name>
+        <image>Mini case</image>
+        <Price>34</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="159">
+        <name>Mini charger</name>
+        <image>Mini charger</image>
+        <Price>45</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="160">
+        <name>Charger cable</name>
+        <image>Charger cable</image>
+        <Price>78</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="161">
+        <name>FM transmitter</name>
+        <image>FM transmitter</image>
+        <Price>170</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="162">
+        <name>Car phone holder</name>
+        <image>Car phone holder</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="163">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="164">
+        <name>Screen protector</name>
+        <image>Screen protector</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="165">
+        <name>Prime case</name>
+        <image>Prime case</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="166">
+        <name>Prepaid sim kit</name>
+        <image>Prepaid sim kit</image>
+        <Price>49</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="167">
+        <name>Repair tool kit</name>
+        <image>Repair tool kit</image>
+        <Price>67</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="168">
+        <name>FM transmitter</name>
+        <image>FM transmitter</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="169">
+        <name>Car phone holder</name>
+        <image>Car phone holder</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="170">
+        <name>Extanding stand</name>
+        <image>Extanding stand</image>
+        <Price>89</Price>
+    </accessorydetail>
+    
+    <!--Laptop accessorydetail below////////////////////////////-->
+    <accessorydetail id="171">
+        <name>Microsoft office</name>
+        <image>Microsoft office</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="172">
+        <name>Magic mouse</name>
+        <image>Magic mouse</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="173">
+        <name>Hardshell case</name>
+        <image>Hardshell case</image>
+        <Price>66</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="174">
+        <name>Magic keyboard</name>
+        <image>Magic keyboard</image>
+        <Price>70</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="175">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="176">
+        <name>Parrallel desktop</name>
+        <image>Parrallel desktop</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="177">
+        <name>File maker</name>
+        <image>File maker</image>
+        <Price>130</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="178">
+        <name>File maker</name>
+        <image>File maker</image>
+        <Price>130</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="179">
+        <name>Magic trackpad</name>
+        <image>Magic trackpad</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="180">
+        <name>Airport express</name>
+        <image>Airport express</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="181">
+        <name>Apple care</name>
+        <image>Apple care</image>
+        <Price>200</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="182">
+        <name>5K displayer</name>
+        <image>5Kdisplayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="183">
+        <name>Parrallel desktop</name>
+        <image>Parrallel desktop</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="184">
+        <name>File maker</name>
+        <image>File maker</image>
+        <Price>130</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="185">
+        <name>Laptop sleeve</name>
+        <image>Laptop sleeve</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="186">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="187">
+        <name>Keyboard cover</name>
+        <image>Keyboard cover</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="188">
+        <name>Portable charger</name>
+        <image>Portable charger</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="189">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="190">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="191">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="192">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="193">
+        <name>Laptop screen protector</name>
+        <image>Laptop screen protector</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="194">
+        <name>Hard drive</name>
+        <image>Hard drive</image>
+        <Price>599</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="195">
+        <name>HDMI cable</name>
+        <image>HDMI cable</image>
+        <Price>49</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="196">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="197">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="198">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="199">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="200">
+        <name>Laptop screen protector</name>
+        <image>Laptop screen protector</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="201">
+        <name>Gaming mouse</name>
+        <image>Gaming mouse</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="202">
+        <name>Gaming keyboard</name>
+        <image>Gaming keyboard</image>
+        <Price>399</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="203">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="204">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="205">
+        <name>Baclpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="206">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="207">
+        <name>Laptop screen protector</name>
+        <image>Laptop screen protector</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="208">
+        <name>Thunderbold dock</name>
+        <image>Thubderbold dock</image>
+        <Price>90</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="209">
+        <name>Bluetooth mouse</name>
+        <image>Bluetooth mouse</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="210">
+        <name>Portable tray</name>
+        <image>Portable tray</image>
+        <Price>110</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="211">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>30</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="212">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="213">
+        <name>Keyboard cover</name>
+        <image>Keyboard cover</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="214">
+        <name>Laptop sleeve</name>
+        <image>Laptop sleeve</image>
+        <Price>70</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="215">
+        <name>Memory card</name>
+        <image>Memory card</image>
+        <Price>130</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="216">
+        <name>Hard drive</name>
+        <image>Hard drive</image>
+        <Price>399</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="217">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>300</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="218">
+        <name>Airport express</name>
+        <image>Airport express</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="219">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>110</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="220">
+        <name>Laptop screen protector</name>
+        <image>Laptop screen protector</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="221">
+        <name>Surface pen</name>
+        <image>Surface pen</image>
+        <Price>299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="222">
+        <name>Keyboard cover</name>
+        <image>Keyboard cover</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="223">
+        <name>HDMI cable</name>
+        <image>HDMI cable</image>
+        <Price>34</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="224">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="225">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="226">
+        <name>Cooling pad</name>
+        <image>Cooling pad</image>
+        <Price>140</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="227">
+        <name>Gaming mouse</name>
+        <image>Gaming mouse</image>
+        <Price>890</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="228">
+        <name>Cooling pad</name>
+        <image>Cooling pad</image>
+        <Price>140</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="229">
+        <name>Gaming keyboard</name>
+        <image>Gaming keyboard</image>
+        <Price>560</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="230">
+        <name>Hard drive</name>
+        <image>Hard drive</image>
+        <Price>750</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="231">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="232">
+        <name>Keyboard cover</name>
+        <image>Keyboard cover</image>
+        <Price>140</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="233">
+        <name>Backpack</name>
+        <image>Backpack</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="234">
+        <name>5K displayer</name>
+        <image>5K displayer</image>
+        <Price>1299</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="235">
+        <name>Router</name>
+        <image>Router</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="236">
+        <name>Airport express</name>
+        <image>Airport express</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="237">
+        <name>Microsoft office</name>
+        <image>Microsoft office</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="238">
+        <name>Magic mouse</name>
+        <image>Magic mouse</image>
+        <Price>50</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="239">
+        <name>Parrallel desktop</name>
+        <image>Parrallel desktop</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="240">
+        <name>File maker</name>
+        <image>File maker</image>
+        <Price>130</Price>
+    </accessorydetail>
+    
+    <!--Smart watches accessorydetail below////////////////////////////////////-->
+    <accessorydetail id="241">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="242">
+        <name>Nike sport band</name>
+        <image>Nike sport band</image>
+        <Price>145</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="243">
+        <name>Woven nylon band</name>
+        <image>Woven nylon band</image>
+        <Price>159</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="244">
+        <name>Link bracelet</name>
+        <image>Link bracelet</image>
+        <Price>140</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="245">
+        <name>Charging cable</name>
+        <image>Charging cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="246">
+        <name>Seashell sport loop</name>
+        <image>Seashell sport loop</image>
+        <Price>180</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="247">
+        <name>Olive sport loop</name>
+        <image>Olive sport loop</image>
+        <Price>100</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="248">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="249">
+        <name>Headphone</name>
+        <image>Headphone</image>
+        <Price>490</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="250">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="251">
+        <name>Adapter cable</name>
+        <image>Adapter cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="252">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="253">
+        <name>Nike sport band</name>
+        <image>Nike sport band</image>
+        <Price>145</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="254">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="255">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="256">
+        <name>Nike sport band</name>
+        <image>Nike sport band</image>
+        <Price>145</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="257">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="258">
+        <name>Adapter cable</name>
+        <image>Adapter cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="259">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="260">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="261">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="262">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="263">
+        <name>Woven nylon band</name>
+        <image>Woven nylon band</image>
+        <Price>159</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="264">
+        <name>Adapter cable</name>
+        <image>Adapter cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="265">
+        <name>Steel frame</name>
+        <image>Steel frame</image>
+        <Price>125</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="266">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="267">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="268">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="269">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="270">
+        <name>Nike sport band</name>
+        <image>Nike sport band</image>
+        <Price>145</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="271">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="272">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="273">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="274">
+        <name>Watch stand</name>
+        <image>Watch stand</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="275">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="276">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="277">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="278">
+        <name>Adapter cable</name>
+        <image>Adapter cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="279">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="280">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>43</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="281">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>190</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="282">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="283">
+        <name>Link bracelet</name>
+        <image>Link bracelet</image>
+        <Price>140</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="284">
+        <name>External battery</name>
+        <image>External battery</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="285">
+        <name>Prepaid sim kit</name>
+        <image>Prepaid sim kit</image>
+        <Price>49</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="286">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="287">
+        <name>Steel frame</name>
+        <image>Steel frame</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="288">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>213</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="289">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="290">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="291">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="292">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>213</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="293">
+        <name>Repair tool kit</name>
+        <image>Repair tool kit</image>
+        <Price>67</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="294">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="295">
+        <name>Watch stand</name>
+        <image>Watch stand</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="296">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="297">
+        <name>Steel frame</name>
+        <image>Steel frame</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="298">
+        <name>Watch stand</name>
+        <image>Watch stand</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="299">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="300">
+        <name>Adapter cable</name>
+        <image>Adapter cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="301">
+        <name>Backup band</name>
+        <image>Backup band</image>
+        <Price>213</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="302">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="303">
+        <name>Repair tool kit</name>
+        <image>Repair tool kit</image>
+        <Price>67</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="304">
+        <name>Headphone</name>
+        <image>Headphone</image>
+        <Price>67</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="305">
+        <name>Nike sport band</name>
+        <image>Nike sport band</image>
+        <Price>145</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="306">
+        <name>Adapter cable</name>
+        <image>Adapter cable</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="307">
+        <name>Magnetic charging dock</name>
+        <image>Magnetic charging dock</image>
+        <Price>160</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="308">
+        <name>Watch stand</name>
+        <image>Watch stand</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="309">
+        <name>Case cover</name>
+        <image>Case cover</image>
+        <Price>15</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="310">
+        <name>Watch screen protector</name>
+        <image>Watch screen protector</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <!--Speakers below//////////////////////////////////////////-->
+    <accessorydetail id="311">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="312">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="313">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="314">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="315">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="316">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="317">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="318">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="319">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="320">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="321">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="322">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="323">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="324">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="325">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="326">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="327">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="328">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="329">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="330">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="331">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="332">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="333">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="334">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="335">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="336">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="337">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="338">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="339">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="340">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="341">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="342">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="343">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="344">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="345">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="346">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="347">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="348">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="349">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="350">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="351">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="352">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="353">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="354">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="355">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="356">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="357">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="358">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="359">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="360">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="361">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="362">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="363">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="364">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="365">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="366">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="367">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="368">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="369">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="370">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="371">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="372">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="373">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="374">
+        <name>Power cable</name>
+        <image>Power cable</image>
+        <Price>32</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="375">
+        <name>USB cable</name>
+        <image>USB cable</image>
+        <Price>56</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="376">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="377">
+        <name>Adapter</name>
+        <image>Adapter</image>
+        <Price>59</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="378">
+        <name>Travel case</name>
+        <image>Travel case</image>
+        <Price>69</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="379">
+        <name>Bike mount</name>
+        <image>Bike mount</image>
+        <Price>240</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="380">
+        <name>Speaker mount</name>
+        <image>Speaker mount</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <!--Headphones accessorydetail below////////////////////////////////////////-->
+    <accessorydetail id="381">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="382">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="383">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="384">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="385">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="386">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="387">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="388">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="389">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="390">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="391">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="392">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="393">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="394">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="395">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="396">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="397">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="398">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="399">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="400">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="401">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="402">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="403">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="404">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="405">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="406">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="407">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="408">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="409">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="410">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="411">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="412">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="413">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="414">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="415">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="416">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="417">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="418">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="419">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="420">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="421">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="422">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="423">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="424">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="425">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="426">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="427">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="428">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="429">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="430">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="431">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="432">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="433">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="434">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="435">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="436">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="437">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="438">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="439">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="440">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="441">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="442">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="443">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="444">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="445">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>120</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="446">
+        <name>Airline adapter</name>
+        <image>Airline adapter</image>
+        <Price>320</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="447">
+        <name>Bluetooth transmitter</name>
+        <image>Bluetooth transmitter</image>
+        <Price>440</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="448">
+        <name>Foam earpad</name>
+        <image>Foam earpad</image>
+        <Price>5</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="449">
+        <name>Splitter adapter</name>
+        <image>Splitter adapter</image>
+        <Price>80</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="450">
+        <name>Extension cable</name>
+        <image>Extension cable</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <!--External storage accessorydetail below////////////////////////////-->
+    <accessorydetail id="451">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="452">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="453">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="454">
+        <name>Recorder</name>
+        <image>Recorder</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="455">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="456">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="457">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="458">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="459">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="460">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="461">
+        <name>Recorder</name>
+        <image>Recorder</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="462">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="463">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="464">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="465">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="466">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="467">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="468">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="469">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="470">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="471">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="472">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="473">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="474">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="475">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="476">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="477">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="478">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="479">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="480">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="481">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="482">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="483">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="484">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="485">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="486">
+        <name>Protection plan</name>
+        <image>Protection plan</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="487">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="488">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="489">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="490">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="491">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="492">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="493">
+        <name>Controller</name>
+        <image>Controller</image>
+        <Price>400</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="494">
+        <name>Gaming mouse</name>
+        <image>Gaming mouse</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="495">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="496">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="497">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="498">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="499">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="500">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="501">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="502">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="503">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="504">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="505">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="506">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="507">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="508">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="509">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="510">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="511">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="512">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="513">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="514">
+        <name>Cable adapter</name>
+        <image>Cable adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="515">
+        <name>Port hub</name>
+        <image>Port hub</image>
+        <Price>350</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="516">
+        <name>Carrying case</name>
+        <image>Carrying case</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="517">
+        <name>Power strip</name>
+        <image>Power strip</image>
+        <Price>230</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="518">
+        <name>Hard drive enclosure</name>
+        <image>Hard drive enclosure</image>
+        <Price>450</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="519">
+        <name>Reader adapter</name>
+        <image>Reader adapter</image>
+        <Price>150</Price>
+    </accessorydetail>
+    
+    <accessorydetail id="520">
+        <name>Card reader</name>
+        <image>Card reader</image>
+        <Price>60</Price>
+    </accessorydetail>
+    
+</Product>

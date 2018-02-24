@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<UserMap>
+<User id="demo">
+<password>demo</password>
+<type>Customer</type>
+</User>
+<User id="sunruo">
+<password>sunruo</password>
+<type>Customer</type>
+</User>
+<User id="abc">
+<password>abc</password>
+<type>Customer</type>
+</User>
+<User id="csp584">
+<password>csp584</password>
+<type>Customer</type>
+</User>
+<User id="manager">
+<password>manager</password>
+<type>Manager</type>
+</User>
+<User id="test">
+<password>TEST</password>
+<type>Customer</type>
+</User>
+<User id="liuyi12">
+<password>liuyi12</password>
+<type>Customer</type>
+</User>
+<User id="zzz">
+<password>zzz</password>
+<type>Customer</type>
+</User>
+<User id="asas">
+<password>asas</password>
+<type>Customer</type>
+</User>
+<User id="test1">
+<password>tesst1</password>
+<type>Select</type>
+</User>
+<User id="888">
+<password>888</password>
+<type>Customer</type>
+</User>
+<User id="aaaa">
+<password>111</password>
+<type>Customer</type>
+</User>
+<User id="lll">
+<password>lll</password>
+<type>Customer</type>
+</User>
+<User id="aaa">
+<password>aaa</password>
+<type>Customer</type>
+</User>
+<User id="121">
+<password>121</password>
+<type>Customer</type>
+</User>
+<User id="777">
+<password>777</password>
+<type>Select</type>
+</User>
+<User id="asdf">
+<password>asdf</password>
+<type>Customer</type>
+</User>
+<User id="test2">
+<password>TEST</password>
+<type>ager</type>
+</User>
+<User id="1234">
+<password>1234</password>
+<type>Select</type>
+</User>
+<User id="test22">
+<password>test</password>
+<type>Select</type>
+</User>
+<User id="yliu">
+<password>yliu</password>
+<type>Manager</type>
+</User>
+<User id="584">
+<password>584</password>
+<type>Customer</type>
+</User>
+<User id="csp">
+<password>csp</password>
+<type>Customer</type>
+</User>
+<User id="766">
+<password>766</password>
+<type>Select</type>
+</User>
+<User id="lllyyy">
+<password>lllyyy</password>
+<type>Customer</type>
+</User>
+<User id="1231">
+<password>1231</password>
+<type>Select</type>
+</User>
+<User id="12138">
+<password>12138</password>
+<type>Customer</type>
+</User>
+<User id="13">
+<password>13</password>
+<type>Select</type>
+</User>
+<User id="11">
+<password>11</password>
+<type>Customer</type>
+</User>
+<User id="x1">
+<password>x1</password>
+<type>ger</type>
+</User>
+<User id="test10">
+<password>TEST</password>
+<type>Customer</type>
+</User>
+<User id="xxx">
+<password>xxx</password>
+<type>Customer</type>
+</User>
+<User id="test12">
+<password>TEST</password>
+<type>Select</type>
+</User>
+<User id="test11">
+<password>TEST</password>
+<type>Select</type>
+</User>
+<User id="sunruoxuan">
+<password>sunruouan</password>
+<type>Customer</type>
+</User>
+<User id="555">
+<password>555</password>
+<type>Customer</type>
+</User>
+<User id="abcd">
+<password>abcd</password>
+<type>Customer</type>
+</User>
+<User id="xu1">
+<password>xu1</password>
+<type>Customer</type>
+</User>
+<User id="009">
+<password>009</password>
+<type>Customer</type>
+</User>
+<User id="manag">
+<password>manag</password>
+<type>Manager</type>
+</User>
+<User id="demotest">
+<password>demotest</password>
+<type>Customer</type>
+</User>
+<User id="demo1">
+<password>demo1</password>
+<type>Customer</type>
+</User>
+<User id="zhanghaoran">
+<password>zhanghaoran</password>
+<type>Customer</type>
+</User>
+<User id="000">
+<password>000</password>
+<type>Customer</type>
+</User>
+<User id="liuyi1">
+<password>liuyi1</password>
+<type>Customer</type>
+</User>
+<User id="liuyi2">
+<password>liuyi2</password>
+<type>Customer</type>
+</User>
+<User id="liu">
+<password>liu</password>
+<type>Customer</type>
+</User>
+<User id="liuyi">
+<password>liuyi</password>
+<type>Customer</type>
+</User>
+<User id="xwx">
+<password>xwx</password>
+<type>Manager</type>
+</User>
+<User id="t">
+<password>T</password>
+<type>man</type>
+</User>
+<User id="testdatabase">
+<password>testdatabase</password>
+<type>Customer</type>
+</User>
+<User id="cus">
+<password>cus</password>
+<type>Customer</type>
+</User>
+<User id="yi">
+<password>yi</password>
+<type>Customer</type>
+</User>
+<User id="cust">
+<password>cust</password>
+<type>Customer</type>
+</User>
+<User id="999">
+<password>999</password>
+<type>Customer</type>
+</User>
+</UserMap>

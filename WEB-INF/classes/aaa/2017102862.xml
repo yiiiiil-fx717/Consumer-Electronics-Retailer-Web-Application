@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Order>
+<Item id="41">
+<num>1</num>
+</Item>
+<Item id="31">
+<num>1</num>
+</Item>
+<Item id="51">
+<num>1</num>
+</Item>
+<Accessory name="Protection plan">
+<num>1</num>
+</Accessory>
+</Order>

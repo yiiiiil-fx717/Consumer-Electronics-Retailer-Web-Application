@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Order>
+<Item id="11">
+<num>1</num>
+</Item>
+<Item id="54">
+<num>1</num>
+</Item>
+<Accessory name="Hardshell case">
+<num>1</num>
+</Accessory>
+<Accessory name="Port hub">
+<num>1</num>
+</Accessory>
+</Order>

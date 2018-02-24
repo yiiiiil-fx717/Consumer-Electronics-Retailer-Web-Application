@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Order>
+<Item id="1">
+<num>1</num>
+</Item>
+<Item id="21">
+<num>1</num>
+</Item>
+<Item id="45">
+<num>1</num>
+</Item>
+<Accessory name="Carrying case">
+<num>1</num>
+</Accessory>
+</Order>
