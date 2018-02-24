@@ -40,5 +40,3 @@ horizontally.
 8. All Customer transactions/orders stored in MySql database.
 9. Product reviews must be stored in MongoDB database.
 10. When the app-server starts up, the Products are first read into a hashmap from ProductCatalog.xml file and then stored in MySQL database.
-
-***I didn't put the Twitter app credential key in the file list.
